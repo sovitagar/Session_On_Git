@@ -1,1 +1,2 @@
 a new file
+a feature introduced in this branch after reset
