@@ -5,3 +5,4 @@ line 1
 line 4
 new line
 adadasdasdd
+a new line has been inserted
